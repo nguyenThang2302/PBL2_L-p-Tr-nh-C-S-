@@ -1,0 +1,16 @@
+15	20
+	1			BanhTrangTron		20000
+	2			GaRan			    25000	
+	3			KhoaiTayChien		15000
+	4			CaVienChien			15000
+	5			BanhTrangNuong		15000
+	6			BunDauMamTom		45000
+	7			BanhGaoCay			20000
+	8			MyCay				35000
+	9			XucXichChien		20000
+	10			PIZZA		    	40000
+	11			PEPSI			    10000
+	12			TraSua		    	15000
+	13 			TraDao				25000
+	14 			TraVai				20000
+	15 			TraDau				20000
